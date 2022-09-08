@@ -42,37 +42,16 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ### Getting Started
 
-* <ins> Install Unity Hub: https://unity3d.com/de/get-unity/download
-* <ins> Get the Unity Version 2021.2.3f1
-* <ins> Download all files listed in the Unity_project_final folder
-* <ins> Open the folder in unity as a new project
-
+* Install Unity Hub: https://unity3d.com/de/get-unity/download
+* Get the Unity Version 2021.2.3f1
+* Download all files listed in the Unity_project_final folder
+* Open the folder in unity as a new project
+  
+For setting up a different AdminPanelPassword please go to the "PasswordController.cs" file and change the "Password" variable. 
 
 ### Using the Application
 
 For using the Application a Android Device is required. Copy all files inside the Android_Application Folder on a USB Device and install it on your smart phone. Please activate your internet connection otherwise the application can not load the target data from the server to create the targets in the environment. Please enable the usage of the camera otherwise a live AR navigation is not possible.
-
-### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/wintechis/WiSo-OCR-App
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-3. You can specify the port you `config.json`
-   ```json
-    { "PORT": "8383" }
-   ```
-4. Start the project webapp
-    ```sh
-   npm run start
-   ```
-After starting the project you can find it at the defined port.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
