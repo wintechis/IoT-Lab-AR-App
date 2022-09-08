@@ -1,0 +1,56 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="CheckAdminPanel">
+			<method name="allreadycommitedpassword"/>
+		</type>
+		<type fullname="NavigationController">
+			<method name="ToggleLineVisibility"/>
+		</type>
+		<type fullname="PasswordController">
+			<method name="CheckPasswordCondition"/>
+		</type>
+		<type fullname="QrCodeRecenter">
+			<method name="ToggleScanning"/>
+		</type>
+		<type fullname="SetUiText">
+			<method name="OnSliderValueChanged"/>
+		</type>
+		<type fullname="TargetHandler">
+			<method name="addTarget"/>
+			<method name="makeallunselected"/>
+			<method name="makeallunselected"/>
+			<method name="removeTarget"/>
+			<method name="restartpositions"/>
+			<method name="SaveData"/>
+			<method name="SetSelectedChange2"/>
+			<method name="SetSelectedChange3"/>
+			<method name="SetSelectedTargetPositionWithDropdown"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine.CoreModule" ignoreIfMissing="1">
+		<type fullname="UnityEngine.GameObject">
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+		</type>
+	</assembly>
+</linker>
