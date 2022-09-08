@@ -1,10 +1,10 @@
 
 
-<h3 align="center">IoT-Lab-AR-App</h3>
+<h2 align="center">IoT-Lab-AR-App</h2>
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Contents</summary>
   <ol>
     <ul>
       <li><a href="#about-the-project">About The Project</a></li>
