@@ -27,14 +27,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This webapp was developed to help students find their way around at the WiSo faculty of the Friedrich-Alexander-University Erlangen-Nürnberg. 
-It's purpose is to retrieve relevant UniVIS data so that students can get an idea of what is being worked on in which area of the faculty.
-
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+This Unity application was developed to help students in the IT Lab premises at the WISO of the Friedrich-Alexander-University Erlangen-Nuremberg.
+The app offers students the possibility to get a live navigation to different devices in the premises through AR. Through an admin panel, new destinations can be added and removed, which are then synchronized with a server to always ensure the most up-to-date status between all users. Through a QR scanner integrated into the app, the player can be reset to the starting point for ease of use. 
 
 
 ### Built With
@@ -58,9 +52,11 @@ This section should list any major frameworks/libraries used to bootstrap your p
 ## Getting Started
 
 
-### Prerequisites
+### Using the Application
 
-Make sure you have Node.js and the Node Package Manager (npm) installed. 
+For using the Application a Android Device is required. Copy all files inside the Android_Application Folder on a USB Device and install it on your smart phone. Please activate your internet connection otherwise the application can not load the target data from the server to create the targets in the environment. Please enable the usage of the camera otherwise a live AR navigation is not possible.
+
+Make sure you h Node.js and the Node Package Manager (npm) installed. 
 * check if node is installed
 ```sh
   node --version
