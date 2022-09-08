@@ -8,13 +8,13 @@
   <ol>
     <ul>
       <li><a href="#about-the-project">About The Project</a></li>
-      <li><a href="#about-the-project">Built with</a></li>
-      <li><a href="#about-the-project">Getting Started</a></li>
-      <li><a href="#about-the-project">Using the Application</a></li>
-      <li><a href="#about-the-project">Video demonstration and Usage</a></li>
-      <li><a href="#about-the-project">Further development ideas</a></li>
-      <li><a href="#about-the-project">License</a></li>
-      <li><a href="#about-the-project">Contact</a></li>
+      <li><a href="#built-with">Built with</a></li>
+      <li><a href="#getting-started">Getting Started</a></li>
+      <li><a href="#using-the-application">Using the Application</a></li>
+      <li><a href="#video-demonstration-and-usage">Video demonstration and Usage</a></li>
+      <li><a href="#further-development-ideas">Further development ideas</a></li>
+      <li><a href="#license">License</a></li>
+      <li><a href="#contact">Contact</a></li>
     </ul>
   </ol>
 </details>
@@ -58,7 +58,7 @@ Link Youtube Video here when filmed
 
 <!-- FURTHER DEVELOPMENT -->
 
-### Possible further development ideas
+### Further development ideas
 
 * Improved room recognition 
 * Panel zum Ändern des Passworts
