@@ -35,7 +35,7 @@ The app offers students the possibility to get a live navigation to different de
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* <ins> Unity Version 2021.2.3f1 AR Foundation
+* Unity Version 2021.2.3f1 AR Foundation
 
 
 
