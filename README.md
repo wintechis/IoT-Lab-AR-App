@@ -7,7 +7,14 @@
   <summary>Table of Contents</summary>
   <ol>
     <ul>
-      <li> <a href="#about-the-project">About The Project</a></li>
+      <li><a href="#about-the-project">About The Project</a></li>
+      <li><a href="#about-the-project">Built with</a></li>
+      <li><a href="#about-the-project">Getting Started</a></li>
+      <li><a href="#about-the-project">Using the Application</a></li>
+      <li><a href="#about-the-project">Video demonstration and Usage</a></li>
+      <li><a href="#about-the-project">Further development ideas</a></li>
+      <li><a href="#about-the-project">License</a></li>
+      <li><a href="#about-the-project">Contact</a></li>
     </ul>
   </ol>
 </details>
@@ -45,7 +52,7 @@ For setting up a different AdminPanelPassword please go to the "PasswordControll
 For using the Application a Android Device is required. Copy all files inside the Android_Application Folder on a USB Device and install it on your smart phone. Please activate your internet connection otherwise the application can not load the target data from the server to create the targets in the environment. Please enable the usage of the camera otherwise a live AR navigation is not possible.
 
 <!-- USAGE EXAMPLES -->
-## Video demonstration and usage
+## Video demonstration and Usage
 
 Link Youtube Video here when filmed
 
