@@ -1,6 +1,6 @@
 
 
-<h3 align="center">WiSo-OCR-App</h3>
+<h3 align="center">IoT-Lab-AR-App</h3>
 
 <!-- TABLE OF CONTENTS -->
 <details>
