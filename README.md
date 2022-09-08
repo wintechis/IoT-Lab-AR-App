@@ -12,14 +12,13 @@
       <li><a href="#getting-started">Getting Started</a></li>
       <li><a href="#using-the-application">Using the Application</a></li>
       <li><a href="#video-demonstration-and-usage">Video demonstration and Usage</a></li>
+      <li><a href="#difficulties-during-development">Difficulties during development</a></li>
       <li><a href="#further-development-ideas">Further development ideas</a></li>
       <li><a href="#license">License</a></li>
       <li><a href="#contact">Contact</a></li>
     </ul>
   </ol>
 </details>
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -55,6 +54,25 @@ For using the Application a Android Device is required. Copy all files inside th
 ## Video demonstration and Usage
 
 Link Youtube Video here when filmed
+
+<!-- DIFFICULTIES -->
+## Difficulties during development
+
+Direct publishing with Webgl through the solution provided by Unity unfortunately did not work, since once the application was deployed through a server, the calling device's camera could not be accessed.
+
+We found several Unity extensions that promised to provide a solution to our problems and we were also in contact with experts on the Unity forum.
+
+1. <a href="https://assetstore.unity.com/packages/tools/integration/opencv-for-unity-21088)">OpenCV for Unity</a>
+2. <a href="https://assetstore.unity.com/packages/tools/camera/devicecamerawebgl-180966">DeviceCameraWebGL</a>
+3. <a href="https://github.com/ToughNutToCrack/ARWT">ARWT</a>
+
+Unfortunately, we could not test the first two listed solutions, as they could only be purchased for a fee.
+
+We were able to test ARWT. ARWT allows users to bring small games or applications into reality. Since the documentation of the code was incomplete or not available and we were not helped when asked, we could not achieve a solution through ARWT either.
+
+ARWT allowed us to open the device's camera in the browser, but AR tracking did not work and the user interface was not displayed.
+
+Through a lot of research we found out that the problem with Unity AR Foundation and Webgl is not only affecting us and it seems to be a general problem.
 
 <!-- FURTHER DEVELOPMENT -->
 
