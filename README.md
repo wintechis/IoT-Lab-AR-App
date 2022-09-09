@@ -94,7 +94,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 If you have any question regarding our code or using the application please contact us via github or linkedin!
 
-Tobias Fleming - https://www.linkedin.com/in/tobias-fleming/
-Alexander Kröker - https://www.linkedin.com/in/alexander-kr%C3%B6ker-33a332206/
+* Tobias Fleming - https://www.linkedin.com/in/tobias-fleming/
+* Alexander Kröker - https://www.linkedin.com/in/alexander-kr%C3%B6ker-33a332206/
 
 Project Link: https://github.com/wintechis/IoT-Lab-AR-App
