@@ -53,7 +53,7 @@ For using the Application a Android Device is required. Copy all files inside th
 <!-- USAGE EXAMPLES -->
 ## Video demonstration and Usage
 
-https://www.dropbox.com/s/wqig30h7ak5j9e7/Seminar_AR_Demo_Video.mp4?dl=0
+https://www.dropbox.com/s/nwlbh8urvkmz9r7/Seminar_AR_Demo_Video.mp4?dl=0
 
 Link Youtube Video here when filmed
 
