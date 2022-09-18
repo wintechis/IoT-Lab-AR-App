@@ -64,7 +64,7 @@ Direct publishing with Webgl through the solution provided by Unity unfortunatel
 
 We found several Unity extensions that promised to provide a solution to our problems and we were also in contact with experts on the Unity forum.
 
-1. <a href="https://assetstore.unity.com/packages/tools/integration/opencv-for-unity-21088)">OpenCV for Unity</a>
+1. <a href="https://assetstore.unity.com/packages/tools/integration/opencv-for-unity-21088">OpenCV for Unity</a>
 2. <a href="https://assetstore.unity.com/packages/tools/camera/devicecamerawebgl-180966">DeviceCameraWebGL</a>
 3. <a href="https://github.com/ToughNutToCrack/ARWT">ARWT</a>
 
@@ -81,7 +81,7 @@ Through a lot of research we found out that the problem with Unity AR Foundation
 ## Further development ideas
 
 * Improved room recognition 
-* Panel zum Ändern des Passworts
+* Panel for changing the password for the adminpanel
 * Possibility to scan operating instructions as QR code through the QR scanner to get direct help with questions
 * Targets get their own icons or avatars 
 * Possibility to change the height of the targets when they are selected or added
