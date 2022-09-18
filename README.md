@@ -34,6 +34,8 @@ Through an admin panel, new destinations can be added, removed or changed which 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * Unity Version 2021.2.3f1 AR Foundation
+* Docker
+* NodeJS
 
 <!-- GETTING STARTED -->
 ## Getting Started
