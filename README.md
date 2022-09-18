@@ -41,7 +41,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * Install Unity Hub: https://unity3d.com/de/get-unity/download
 * Get the Unity Version 2021.2.3f1
 * Download all files listed in the Unity_project_final folder
-* Open the folder in unity as a new project
+* Start a new project and copy all files in the folder to your new project
   
 For setting up a different AdminPanelPassword please go to the "PasswordController.cs" file and change the "Password" variable. 
 
