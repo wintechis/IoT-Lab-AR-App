@@ -40,6 +40,27 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
+### Prerequisites
+
+Make sure you have Node.js and the Node Package Manager (npm) installed. 
+* check if node is installed
+```sh
+  node --version
+  ```
+if node is not installed you can download it at https://nodejs.org/en/
+
+
+* to install the newest version of npm, simply run the following command
+  ```sh
+  npm install npm@latest -g
+  ```
+
+* install the npm packages
+  ```sh
+    cd AR-App-REST-API
+    npm install
+  ```
+
 * Install Unity Hub: https://unity3d.com/de/get-unity/download
 * Get the Unity Version 2021.2.3f1
 * Download all files listed in the Unity_project_final folder
@@ -51,6 +72,15 @@ For setting up a different AdminPanelPassword please go to the "PasswordControll
 ## Using the Application
 
 For using the Application a Android Device is required. Copy all files inside the Android_Application Folder on a USB Device and install it on your smart phone. Please activate your internet connection otherwise the application can not load the target data from the server to create the targets in the environment. Please enable the usage of the camera otherwise a live AR navigation is not possible.
+
+To start the service that manages the state of the targetdata.json file simply go in the /AR-App-REST-API folder and run start it:
+```sh
+  cd AR-App-REST-API 
+  npm run start
+  ```
+
+The service will run on http://localhost:5000/
+
 
 <!-- USAGE EXAMPLES -->
 ## Video demonstration and Usage
