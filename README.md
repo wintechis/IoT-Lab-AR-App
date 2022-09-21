@@ -57,8 +57,8 @@ if node is not installed you can download it at https://nodejs.org/en/
 
 * install the npm packages
   ```sh
-    cd AR-App-REST-API
-    npm install
+  cd AR-App-REST-API
+  npm install
   ```
 
 * Install Unity Hub: https://unity3d.com/de/get-unity/download
@@ -75,8 +75,8 @@ For using the Application a Android Device is required. Copy all files inside th
 
 To start the service that manages the state of the targetdata.json file simply go in the /AR-App-REST-API folder and run start it:
 ```sh
-  cd AR-App-REST-API 
-  npm run start
+cd AR-App-REST-API 
+npm run start
   ```
 
 The service will run on http://localhost:5000/
