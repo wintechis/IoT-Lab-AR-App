@@ -65,6 +65,7 @@ if node is not installed you can download it at https://nodejs.org/en/
 * Get the Unity Version 2021.2.3f1
 * Download all files listed in the Unity_project_final folder
 * Start a new project and copy all files in the folder to your new project
+* For saving the JSON we use a REST-Api that is currently deployed on heroku and needs to be adjusted if you self-host it. The URL can be adjusted at: Unity_project_final/Assets/OwnScripts/TargetHandler.cs , simply change the "LoadURL" and "SaveURL" variables to the URL you self-host the service
   
 For setting up a different AdminPanelPassword please go to the "PasswordController.cs" file and change the "Password" variable. 
 
